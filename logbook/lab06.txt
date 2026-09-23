@@ -1,0 +1,3 @@
+LAB 6 LOGBOOK - Ruhan Jangir - E26B07F0583
+SETUP: my working directory is /Users/ruhaann__17/nst/labs
+T1 prediction: I think ls / will show about /users/ruhaann__17/nst/labs items
